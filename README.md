@@ -28,4 +28,4 @@
 9. Coding Interview Preparation [https://www.coursera.org/learn/coding-interview-preparation?specialization=meta-back-end-developer]
 
 
-    N/B: ALWAYS TO RESPECTIVE DOCUMENTATIONS
+    N/B: ALWAYS REFER TO RESPECTIVE DOCUMENTATIONS
